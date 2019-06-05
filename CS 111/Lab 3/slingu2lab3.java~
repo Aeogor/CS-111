@@ -1,0 +1,21 @@
+import java.awt.Color;
+
+public class slingu2lab3
+{
+  public static void main (String[] args)
+  {
+   System.out.println ("Begin Java Execution");
+   System.out.println ("");
+   
+   String filename;
+   filename = FileChooser.pickAFile ();
+   Picture p;
+   p = new Picture ( filename );
+   
+   
+    
+    
+    
+  }
+  
+}
